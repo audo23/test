@@ -1,0 +1,69 @@
+
+ÎÒÓ¦¸ÃÁË½â±ê×¼µÄ±à¼­¹¦ÄÜ£º±ÈÈç³·Ïú¡¢¸³Öµ¡¢±£´æ¡¢¼ôÇÐ£¬µÈµÈ£»
+
+mysqlÆð±ðÃû²»ÊÇÐèÒªasÂð£¿»¹ÊÇËµÖ±½Ó¼ÓÔÚºóÃæ£¿
+¡ª¡ªÊÇµÄ£¬²»±ØÒªÊ¹ÓÃas£¨dzj£º¾­¹ý³¢ÊÔ£©
+
+ÈçºÎÉèÖÃÍâ¼ü£¿
+
+¸üºÃµÄÍøÒ³µ÷ÊÔÅÅ´í¹¤¾ß£¿Ò»Ð©´íÎóÌáÊ¾Ì«²»ÖÇÄÜÁË¡£±ÈÈçgetelementsbyidµÄ´íÎó¡£
+
+ÍøÒ³web¿¿¼ÇÒä¸üÆ«ÊÓ¾õ£¬ËùÒÔ¶àÁôÖ®Ç°µÄÁ·Ï°ÊÇºÃµÄ¡£
+
+ÄÄÐ©ÊÇglobalµÄÊôÐÔÄØ£¿ÐèÒª¼ÇÒä£¬±ÈÈçvalue£¬title£¬name£¬id£¬class£¬µÈµÈ
+
+ÄÜ¹»Í¬Ê±µÄ¶ÁÐ´Âð£¿ÅÂÊÇ²»ÐÐ£¬ÒòÎªÖ¸ÕëÔÚ×îºó£¬ÊÇÃ»ÓÐ¿É¶ÁÈ¡µÄ¶«Î÷£»
+
+ÎªÊ²Ã´iterator.next£¨£©²»ÄÜ×Ô¶¯µÄÉú³É±äÁ¿ÄØ£¿Ò²ÐíÊÇÕâ±¾ÉíÊÇÒ»¸öÍêÕûµÄÓï¾ä°É£¬²»ÐèÒª´´½¨±¾µØ±äÁ¿£»
+
+J1803ÔÂ¿¼
+??¡¾¡¿24	ÕâÀïµÄex.ÊÇ²»ÊÇ´òÓ¡´íÎóÄØ?
+
+ÈçºÎ×öµ½»ñÈ¡Ëù×¥È¡µÄ×Ö·û´®µÄ³¤¶ÈÄØ?
+ÕýÔò±í´ïÊ½µÄÁ¿´ÊµÄº¬Òå??Ì°À·ÐÍ??
+
+\wµÄ·¶Î§µ½µ×ÊÇ¶àÉÙ?°üº¬ÏÂ»®ÏßÂð?  cjºÍtij¶¼ÊÇ´íµÄ, apiÊÖ²áÉÏÐ´Ã÷ÁË°üº¬ÏÂ»®Ïß.
+
+
+StringBuilderÊÇ·ñ»áÔÚÔ­À´µÄµØÖ·ÉÏÄØ?Õâ¸ö²»Ò»¶¨,µ«ÊÇÕâ¸öÀàµÄ·½·¨²¢²»»á´´½¨ÐÂµÄ¶ÔÏó;
+
+ÓÐÃ»ÓÐ¼ÈÓÐgcÓÖÓÐc/c++µÄÊÖ¶¯¿ØÖÆÄÚ´æÇåÀíµÄ³ÌÐòÄØ?
+
+¡¾¡¿ÓÐÃ»ÓÐÄÇÐ©·Ö¼¶±ðµÄ×¢ÊÍÄØ£¿Ö»ÓÐ¶ÔÍâ¿É¼ûµÄ¡¢¶ÔÍâ²»¿É¼ûµÄ£¬µÈµÈ¡£»òÐíÎÒ¿ÉÒÔÍ¨¹ý¹Ø¼ü×Ö¡¢ÕýÔò±í´ïÊ½ÒÔ¼°Ìæ»»µÈµÈÀ´ÊµÏÖ
+ÈçºÎÉú³ÉjavadocÄØ?ÔÚfile-exportÀïÃæ;
+ÁíÍâÈçºÎÓÃeclipseµÄhelp-helpcontentsÀïÃæÈ¥²éÕÒ³£¼ûµÄ²Ù×÷ÄØ?ËÑË÷,È»ºóÔÚÑ¡ÖÐ×îÏà½üµÄÄÚÈÝ,È»ºóÔÚ×îÏÂÃæÓÐÒ»¸ö"related reference"»òÕßÖ±½Óµã»÷ÓÐÏÂ»®ÏßµÄ.
+¿´±ðÈËµÄ´úÂë£ºÈç¹ûÖªµÀ¶Ô·½µÄË¼Â·¡¢Ä¿µÄµÄ»°£¬¿´´úÂë¾ÍÊÇ¿´±ðÈË¶øÊµÏÖ£»
+Èç¹ûÎÒ²»ÖªµÀ¶Ô·½µÄË¼Â·ÓëÄ¿µÄ£¬Ôò¿´´úÂë¾ÍÒªÁË½â¶Ô·½µÄÃ¿Ò»¸ö¹ý³Ì¡£Õâ¸öºÜÄÑ¡£
+
+ÄÜ¹»½øÐÐÒôµ÷Ñ¡ÔñµÄË«Æ´ÊäÈë·¨?
+
+ÈçºÎÈ¡ÏûµôeclipseµÄÃ¿¸öÀàÏÂÃæµÄ½á¹¹ÄØ?
+
+ÈçºÎÊµÏÖÔÚÉÏÁ½¼¶µÄÄ¿Â¼ÏÂÃæ´´½¨ÎÄ¼þÄØ?
+Ò»¸ö..»¹²»¹»Âð?
+
+Èç¹ûÊÇString s=s2.append("abc");
+×¢Òâ:ÕâÀïabcÒ²ÊÇÒ»¸öÐÂ½¨µÄ¶ÔÏó!¾¡¹ÜÊÇÄäÃûµÄ/×ÖÃæÁ¿µÄ.
+
+ÎªÊ²Ã´Ê¹ÓÃutf-8Ê±,Ð´³öµÄ\N»»ÐÐ·û²»ÄÜ³É¹¦ÄØ?
+ÁíÍâ,Ê¹ÓÃread·½·¨Ê±ÐèÒªÊ¹ÓÃbyte[]À´´æ´¢ÎÄ¼þ¶ÁÈ¡µÄ×Ö½Ú.µ«ÊÇbyte[n]ÀïÃæµÄnµÄ²ÎÊý±ØÐëÊÇint, 
+¶øraf.length()·µ»ØµÄÊÇlong;ËùÒÔÐèÒª½øÐÐÇ¿ÖÆÀàÐÍ×ª»».
+µ«ÊÇÈç¹ûÆäbyte³¤¶ÈÈ·Êµ³¬¹ýÁËintµÄ×î´óÖµÊ±ÄØ?
+ÁíÍâ×¢Òâ,¶ÁÈëµÄÊ±ºò,Òª°´ÕÕÎÄ¼þµÄÏà¶ÔÓ¦µÄÖ¸¶¨µÄ×Ö·û¼¯À´½âÂë,·ñÔò½á¹û²»Ò»¶¨ÕýÈ·.
+
+raf.writeUTF(str)Óëraf.write(str.getBytes("UTF-8") )µÄÐ§¹ûÊÇÒ»ÑùµÄÂð?
+ÄÑËµ,ÒòÎªÊ¹ÓÃÇ°Õß,ÎÄ±¾ÖÐ»áÓÐÒ»Ð©Ææ¹ÖµÄ¶îÍâµÄ·ûºÅ,±ÈÈç 
+¶øºóÕßÊÇÃ»ÓÐÕâÐ©µÄ;
+
+¶Ô´úÂëµÄÅúÁ¿²Ù×÷µÄ·½·¨?±ÈÈçÖØ¹¹?ÐÞ¸ÄÎÄ¼þÃû?µÈµÈ;----Ò²Ðí¾ÍÊÇÀûÓÃrefactorÕâ¸ö°´Å¥;
+
+¸¡µãÊý±íÊ¾??16½øÖÆ±íÊ¾·¨??
+
+ÖØ¸´Æß´Î,¾Í»áÓ¡ÏóÉî¿Ì;
+ÄÇÃ´ÎÒµÃÁ·Ï°Ò»ÏÂ²åÈëÅÅÐò;
+
+ÊäÈë°ë¾¶ÇóÔ²ÐÎµÄÖÜ³¤ºÍ°ë¾¶;
+2 pi r,
+pi r2
+
+[¡¾¡¿]µÑ¿¨¶û»ýÊÇ·ñÓ°ÏìÐÔÄÜÄØ?
